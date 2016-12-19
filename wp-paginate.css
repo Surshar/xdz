@@ -1,0 +1,25 @@
+/*
+ * WP-Paginate - WordPress Pagination Function
+ * Revision: $Id: wp-paginate.css 1044618 2014-12-14 23:43:29Z emartin24 $
+ * Copyright 2014 Studio Fuel (http://www.studiofuel.com)
+ */
+.wp-paginate {padding:0; margin:0;}
+.wp-paginate li {display:inline; list-style:none;}
+.wp-paginate a {background:#ddd; border:1px solid #e6e6e6; color:#666; margin-right:15px; padding:5px 10px; text-align:center; text-decoration:none;}
+
+.wp-paginate .title {color:#555; margin-right:15px; font-size:17px;}
+.wp-paginate .gap {color:#999; margin-right:4px;}
+.wp-paginate .current,.wp-paginate a:hover, .wp-paginate a:active {color:#fff; background:#D4B161; border:2px dashed #050505; margin-right:15px; padding:5px 10px; outline:5px solid #D4B161; }
+.wp-paginate .page {}
+.wp-paginate .prev, .wp-paginate .next {}
+
+/* style overrides for comments pagination */
+.wp-paginate-comments {}
+.wp-paginate-comments li {}
+.wp-paginate-comments a {}
+.wp-paginate-comments a:hover, .wp-paginate-comments a:active {}
+.wp-paginate-comments .title {}
+.wp-paginate-comments .gap {}
+.wp-paginate-comments .current {}
+.wp-paginate-comments .page {}
+.wp-paginate-comments .prev, .wp-paginate-comments .next {}
