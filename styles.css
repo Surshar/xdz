@@ -115,7 +115,8 @@ time{display:block;}
 		content:'1 .col-xs-12.portfolio-item';
 	}
 }
-.video-grid::after
+.video-grid::after,
+.video-hentai-grid::after
 {
 	clear:both;
 	display:table;
