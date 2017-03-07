@@ -5680,3 +5680,9 @@ ul.footer-nav li a:hover {
 .navbar-collapse {
 	max-height: 340px;
 }
+.
+
+.recent-projects .sorter
+{
+	display:none !important;
+}
