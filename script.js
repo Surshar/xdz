@@ -188,10 +188,10 @@ $(document).ready(function ($) {
 		slideSpeed : 400,
 		stopOnHover: true,
     	autoPlay: 3000,
-    	items : 4,
-    	itemsDesktopSmall : [900,3],
-		itemsTablet: [600,2],
-		itemsMobile : [479, 1]
+    	items : 5,
+    	itemsDesktopSmall : [900,4],
+		itemsTablet: [600,3],
+		itemsMobile : [479, 2]
 	});
 	
 	
