@@ -3423,7 +3423,7 @@ and (min-width : 551px){
 }
 
 .projects-carousel {
-	width: 1150px !important;
+	width: 100% !important;
 }
 
 .projects-carousel .item {
