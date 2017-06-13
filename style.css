@@ -2919,6 +2919,8 @@ ul.icons-list li i {
 
 .portfolio-item {
 	margin-bottom: 30px;
+	padding-left:3px;
+	padding-right:3px;
 }
 
 .portfolio-4 {
