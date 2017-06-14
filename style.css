@@ -3669,6 +3669,7 @@ ul.post-meta li, ul.post-meta li a {
 
 .post-content p {
     margin-bottom: 15px;
+	color:#fff !important;
 }
 
 /*Pagination*/
