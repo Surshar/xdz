@@ -3740,11 +3740,12 @@ ul.post-meta li, ul.post-meta li a {
 .post-tags-list {
 	float: right;
 	padding-top: 6px;
+	color:#fff;
 }
 
 .post-tags-list a {
 	display: inline-block;
-	color: #666;
+	color: #81261d;
 	font-size: 12px;
 	padding: 2px 8px;
 	background: #eee;
