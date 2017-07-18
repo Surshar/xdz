@@ -3419,8 +3419,6 @@ and (min-width : 551px){
 
 .recent-projects h4.title span {
 	padding-bottom: 8px;
-	border-bottom: 3px solid;
-	border-color:#FCBE58 !important;
 	color:#FCBE58;
 }
 
