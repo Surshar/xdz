@@ -48,6 +48,10 @@ body {
 	color: #666;
 	background: #0a0a0a;
 }
+.container-fluid
+{
+	width:1280px !important;
+}
 strong, b {
 	font-weight: 600;
 }
@@ -3415,6 +3419,7 @@ and (min-width : 551px){
 	margin-bottom: 16px;
 	padding-bottom: 8px;
 	border-bottom: 5px solid #81261d;
+	padding-left:5px;
 }
 
 .recent-projects h4.title span {
