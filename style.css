@@ -3414,7 +3414,7 @@ and (min-width : 551px){
 .recent-projects h4.title {
 	margin-bottom: 16px;
 	padding-bottom: 8px;
-	border-bottom: 3px solid #0F4559;
+	border-bottom: 5px solid #81261d;
 }
 
 .recent-projects h4.title span {
