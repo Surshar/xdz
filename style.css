@@ -48,9 +48,12 @@ body {
 	color: #666;
 	background: #0a0a0a;
 }
-.container-fluid
+@media screen and ( min-width:1280px )
 {
-	width:1280px !important;
+	.container-fluid
+	{
+		width:1280px !important;
+	}
 }
 strong, b {
 	font-weight: 600;
