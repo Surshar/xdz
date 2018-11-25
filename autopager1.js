@@ -49,10 +49,8 @@ function fc2LoadMore(_lastPage) {
 					--page;
 				},
 				success: function(response, textStatus, jqXHR) {
-          var newContainer = $('div');
-          var resp = $(response);
-          resp.find('iframe').closest('div').remove();
-					newContainer.html(resp).appendTo($listArea);
+          
+					$('div').html(response).appendTo($listArea);
 				},
 				complete: function(jqXHR, textStatus) {
 					if (page >= latPage) {
